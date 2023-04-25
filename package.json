@@ -88,7 +88,7 @@
     "@vanilla-extract/css": "^1.9.2",
     "abort-controller": "^3.0.0",
     "abortcontroller-polyfill": "^1.7.3",
-    "aws-sdk": "^2.1055.0",
+    "aws-sdk": "^2.1354.0",
     "babel-jest": "^27.5.1",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "chalk": "^4.1.2",
