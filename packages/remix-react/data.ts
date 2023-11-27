@@ -80,7 +80,7 @@ function getActionInit(
     for (let [key, value] of formData) {
       invariant(
         typeof value === "string",
-        `File inputs are not supported with encType "application/x-www-form-urlencoded", please use "multipart/form-data" instead.`
+        `File inputs  are not supported with encType "application/x-www-form-urlencoded", please use "multipart/form-data" instead.`
       );
       body.append(key, value);
     }
